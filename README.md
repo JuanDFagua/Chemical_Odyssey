@@ -37,7 +37,8 @@ De esta manera, lo que buscamos es proponer una herramienta lúdica que pueda tr
 - Cuando la encuentres podras escanearla, al igual que las demás, en 'Camara'
 - Te desbloquerá nuevos logros que puedes alcanzar *(En Perfil)*, asi como el respectivo apartado en 'Secciones'
 - Aparecera una trajeta con la posibilidad de dirgirte tanto al test como a la Realidad Aumentada
-  - La primera *(tests)* es la que te evaluará y abrirá paso a las demás secciones *(Debes responder todo correctamente para seguir avnazando)*
+  - La primera *(tests)* es la que te evaluará y abrirá paso a las demás secciones
+    *(Debes responder todo correctamente para seguir avnazando)*
   - Mientras que la segunda *(AR)* es donde podras aprender o reforzar las temáticas
 - Y asi progresivamente iras dominando todas las tematicas dispuestas
 
@@ -45,5 +46,6 @@ De esta manera, lo que buscamos es proponer una herramienta lúdica que pueda tr
 
 <img width="363" height="747" alt="Pantalla de acceso" src="https://github.com/user-attachments/assets/45a291ae-8f72-47b7-abd6-af10c7d3c7b9" />
 <img width="368" height="747" alt="Pantalla de evaluaciones" src="https://github.com/user-attachments/assets/d17e3cd3-29fa-41de-8d56-4a758d302b18" />
+
 
 Muchas Gracias por usar nuestra aplicación. Ojala te diviertas, aprendas y la disfrutes :)
