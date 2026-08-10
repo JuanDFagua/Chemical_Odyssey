@@ -7,7 +7,7 @@ De esta manera, lo que buscamos es proponer una herramienta lúdica que pueda tr
 # Tutorial 
 ## Instalación
 
-- Dirigite al repositorio GitHub 'Chemical_Odyssey' - *https://github.com/JuanDFagua/Chemical_Odyssey* (Este mismo) 
+- Dirigite al repositorio GitHub 'Chemical_Odyssey' - *https://github.com/JuanDFagua/Chemical_Odyssey (Este mismo)* 
 - Entra a la carpeta *'.\Aplicación'* y descarga el archivo *'chemical_odyssey.apk'*
 - Ejecuta el archivo desde tu celular y espera que se instale la aplicación
 - Una vez instalada, ingresa a la aplicación y comienza a aprender
@@ -43,8 +43,8 @@ De esta manera, lo que buscamos es proponer una herramienta lúdica que pueda tr
 - Y asi progresivamente iras dominando todas las tematicas dispuestas
 
 # Imagenes del Proyecto
-
 <img width="274" height="561" alt="Pantalla de acceso" src="https://github.com/user-attachments/assets/45a291ae-8f72-47b7-abd6-af10c7d3c7b9" />
+
 <img width="274" height="561" alt="Pantalla de evaluaciones" src="https://github.com/user-attachments/assets/d17e3cd3-29fa-41de-8d56-4a758d302b18" />
 
 <br>Muchas Gracias por usar nuestra aplicación. Ojala te diviertas, aprendas y la disfrutes :)
