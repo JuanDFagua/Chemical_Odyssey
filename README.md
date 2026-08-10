@@ -4,7 +4,6 @@ Este es un proyecto desarrollado por los estudiantes de grado undecimo Juan Dieg
 
 De esta manera, lo que buscamos es proponer una herramienta lúdica que pueda transformar el tiempo de ocio dentro de la escuela en una oportunidad para reforzar las habilidades académicas en Quimica, visto desde el enfoque inorgánico de esta. Esto logrado a través de una especie de carrera de observación que toma lugar dentro del colegio, ubicandose como alternativa al uso poco productivo del celular dentro de la escuela, durante los descansos. Además se apoya del uso de tecnologias emergentes llavativas como lo es la Realidad Aumentada (AR), y de cuestionarios (tests), con los cuales los 'usuarios' pueden aprender los conceptos básicos de la materia y fortalecer sus competencias.
 
-# Tutorial 
 ## Instalación
 
 - Dirigite al repositorio GitHub 'Chemical_Odyssey' - *https://github.com/JuanDFagua/Chemical_Odyssey (Este mismo)* 
@@ -44,7 +43,6 @@ De esta manera, lo que buscamos es proponer una herramienta lúdica que pueda tr
 
 # Imagenes del Proyecto
 <img width="274" height="561" alt="Pantalla de acceso" src="https://github.com/user-attachments/assets/45a291ae-8f72-47b7-abd6-af10c7d3c7b9" />
-
 <img width="274" height="561" alt="Pantalla de evaluaciones" src="https://github.com/user-attachments/assets/d17e3cd3-29fa-41de-8d56-4a758d302b18" />
 
 <br>Muchas Gracias por usar nuestra aplicación. Ojala te diviertas, aprendas y la disfrutes :)
