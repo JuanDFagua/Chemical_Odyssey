@@ -44,5 +44,7 @@ De esta manera, lo que buscamos es proponer una herramienta lúdica que pueda tr
 # Imagenes del Proyecto
 <img width="274" height="561" alt="Pantalla de acceso" src="https://github.com/user-attachments/assets/45a291ae-8f72-47b7-abd6-af10c7d3c7b9" />
 <img width="274" height="561" alt="Pantalla de evaluaciones" src="https://github.com/user-attachments/assets/d17e3cd3-29fa-41de-8d56-4a758d302b18" />
+<img width="274" height="561" alt="Pantalla de secciones" src="https://github.com/user-attachments/assets/7a36c1f8-265f-40ef-b4d4-47b47ad25888" />
+<img width="274" height="561" alt="Pantalla de perfil" src="https://github.com/user-attachments/assets/894bb6c3-20c6-4b64-a669-e09f0550db82" />
 
 <br>Muchas Gracias por usar nuestra aplicación. Ojala te diviertas, aprendas y la disfrutes :)
